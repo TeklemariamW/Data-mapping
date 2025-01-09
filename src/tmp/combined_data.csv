@@ -1,0 +1,10 @@
+id,name,age,email,age_group
+1,Alice,25.0,alice@example.com,adult
+3,Charlie,35.0,charlie@example.com,adult
+4,David,40.0,david@example.com,adult
+6,Eve,30.0,eve@example.com,adult
+7,Frank,45.0,frank@example.com,adult
+10,Ivy,27.0,ivy@example.com,adult
+12,Karen,50.0,karen@example.com,adult
+13,Leo,32.0,leo@example.com,adult
+14,Mona,29.0,mona@example.com,adult
