@@ -1,0 +1,7 @@
+[
+    {"user_id":11,"name":"Jack","years":null,"email":null},
+    {"user_id":12,"name":"Karen","years":50.0,"email":"karen@example.com"},
+    {"user_id":13,"name":"Leo","years":32.0,"email":"leo@example.com"},
+    {"user_id":14,"name":"Mona","years":29.0,"email":"mona@example.com"},
+    {"user_id":15,"name":null,"years":41.0,"email":"jack@example.com"}
+]
